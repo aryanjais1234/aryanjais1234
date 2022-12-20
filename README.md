@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, React**
 
-- 👨‍💻 All of my projects are available at [https://aryanjais1234.github.io/](https://aryanjais1234.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/aryanjais1234?tab=repositories)
 
 - 📫 How to reach me **aryanjais1234@gmail.com**
 
